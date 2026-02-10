@@ -23,7 +23,7 @@ export default function Home() {
             <span className='text-emerald-600'>Atul Gulia</span>
           </h1>
           <p className='mt-4 text-lg md:text-xl text-slate-600'>
-            MCA Final Year @ SGT University · AI/ML · Blockchain · Full-Stack
+            MCA Final Year @ SGT University · AI/ML · Full-Stack
           </p>
 
           <div className='mt-6 flex gap-4'>
