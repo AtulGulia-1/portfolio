@@ -8,7 +8,7 @@ const About = () => {
       year: '2024-2026',
       title: 'MCA Final Year - SGT University',
       role: 'Full-Stack Development Focus',
-      details: 'Mastering AI/ML, Cloud/DevOps. SGPA: 8.9+',
+      details: 'Learning AI/ML, Cloud/DevOps. SGPA: 8.9+',
       icon: '🎓',
     },
     {
@@ -77,7 +77,7 @@ const About = () => {
               {/* Glassmorphism frame */}
               <div className='relative bg-gradient-to-b from-white/95 to-slate-50/90 dark:from-slate-900/95 dark:to-slate-800/90 backdrop-blur-2xl rounded-3xl p-10 border-4 border-white/70 dark:border-slate-800/70 shadow-2xl hover:shadow-[0_35px_100px_-15px_rgba(59,130,246,0.4)] hover:border-blue-300/80 transition-all duration-700'>
                 <Image
-                  src='/IMG_8224.jpg'
+                  src='/IMG_3792.jpg'
                   alt='Atul Gulia - MCA Full-Stack Developer'
                   width={320}
                   height={480}

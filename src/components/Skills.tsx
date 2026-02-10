@@ -15,13 +15,13 @@ const Skills = () => {
         {
           name: 'React',
           icon: '⚛️',
-          level: 'Expert',
+          level: 'Advanced',
           color: 'from-blue-400 to-indigo-500',
         },
         {
           name: 'TypeScript',
           icon: '🔤',
-          level: 'Advanced',
+          level: 'Intermediate',
           color: 'from-blue-600 to-sky-500',
         },
         {
@@ -44,26 +44,20 @@ const Skills = () => {
         {
           name: 'Node.js',
           icon: '🟢',
-          level: 'Advanced',
+          level: 'Intermediate',
           color: 'from-green-500 to-emerald-600',
         },
         {
           name: 'MongoDB',
           icon: '🗄️',
-          level: 'Advanced',
+          level: 'Intermediate',
           color: 'from-green-400 to-emerald-500',
         },
         {
           name: 'MySQL',
           icon: '🗃️',
-          level: 'Advanced',
+          level: 'Moderate',
           color: 'from-orange-500 to-yellow-500',
-        },
-        {
-          name: 'Express',
-          icon: '🚀',
-          level: 'Advanced',
-          color: 'from-slate-600 to-slate-700',
         },
       ],
     },
@@ -85,7 +79,7 @@ const Skills = () => {
         {
           name: 'CNN/ViT',
           icon: '📈',
-          level: 'Advanced',
+          level: 'Intermediate',
           color: 'from-red-500 to-orange-500',
         },
       ],
